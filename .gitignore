@@ -1,0 +1,5 @@
+emr-cli
+bender
+.vscode
+/terraform
+.envrc
